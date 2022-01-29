@@ -6,3 +6,4 @@ This is a template to quickly setup projects of ML/DL/AI work.
 - simple_site.py - this is a simple flask site that allows students to learn about Flask.
 - ai.py - this contains the utility functions for you to run your model. You should have already found the optimum confidence-level for your model to have the best balance between precision and recall.
 - utils.py - this contains general util functions for your app.
+- another bullet
